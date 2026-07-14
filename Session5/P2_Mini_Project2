@@ -1,0 +1,9 @@
+list=[None]*5
+
+list[0]=input("Enter the 1st element ")
+list[1]=input("Enter the 2nd element ")
+list[2]=input("Enter the 3rd element ")  
+list[3]=input("Enter the 4th element ")
+list[4]=input("Enter the 5th element ")  
+
+print(list[2]+list[4])
