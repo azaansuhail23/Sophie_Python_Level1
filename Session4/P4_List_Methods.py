@@ -5,7 +5,6 @@ list.append("Sophie")
 print(list)
 
 list.insert(2, "Happy Birthday")
-
 print(list)
 
 list2=[11,2,-4,5,6,4,44,1]
